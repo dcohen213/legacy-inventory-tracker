@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: legacy-inventory-tracker
+  annotations:
+    github.com/project-slug: dcohen213/legacy-inventory-tracker
+spec:
+  type: other
+  lifecycle: unknown
+  owner: rhdh-team
